@@ -13,12 +13,19 @@
 
   </a>
 
-  <h1>
-  hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  
 </div>
 
----
+<div>
+<h2>
+  Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h2>
+
+<div>👽: computer science junior at CUSAT</div>
+<div>💻: cyber sec enthusiast</div>
+<div>❄️: searching for a new thing to hyperfixate on</div>
+
+</div>
 
 ### :hammer_and_wrench: Languages and Tools :
 
